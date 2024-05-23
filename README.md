@@ -35,6 +35,9 @@ Malware authors manipulate ELF binaries for various reasons, including:
 4. **Data Theft and Espionage**: Malware may manipulate ELF binaries to exfiltrate sensitive data, such as login credentials, financial information, or intellectual property.
 5. **Botnet Recruitment**: Compromised ELF binaries can be used to recruit infected systems into botnets for carrying out coordinated attacks, distributed denial-of-service (DDoS) attacks, or cryptocurrency mining.
 
+## ELF File
+![](https://github.com/ericyoc/elf-files-exe-lib-obj-info-poc/blob/main/elf_file.jpg)
+
 ## ELF File Generator and Parser Generated Files
 
 - ELF file created and saved as 'executable_32.bin'.
