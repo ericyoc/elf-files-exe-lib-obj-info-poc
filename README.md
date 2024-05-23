@@ -2,7 +2,7 @@
 
 This Python script generates ELF (Executable and Linkable Format) files for different types (executable, shared, and object) and versions (32-bit and 64-bit). It also parses these generated files to extract information about their headers and program segments.
 
-## Motivating Articles
+## Motivating Articles and Related Work
 Pratomo, B.A., Kosim, S.A., Studiawan, H., Prabowo, A.O. (2024). BarongTrace: A Malware Event Log Dataset for Linux. In: Barolli, L. (eds) Advanced Information Networking and Applications. AINA 2024. Lecture Notes on Data Engineering and Communications Technologies, vol 202. Springer, Cham. https://doi.org/10.1007/978-3-031-57916-5_5
 
 ELF 101 https://github.com/corkami/pics/blob/28cb0226093ed57b348723bc473cea0162dad366/binary/elf101/elf101-64.svg
