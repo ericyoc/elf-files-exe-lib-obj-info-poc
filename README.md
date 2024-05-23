@@ -305,3 +305,6 @@ This is a 64-bit shared library ELF file.
 
 This is a 64-bit object ELF file.
 
+### Disclaimer
+
+This code is for education and research purposes only.
