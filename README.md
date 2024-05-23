@@ -280,8 +280,6 @@ This is a 64-bit shared library ELF file.
 | Entry point address               | 0           | 0                              |
 | Program header offset             | 0           | 0                              |
 | Section header offset             | 0           | 0                              |
-| Field                             | Value       | Description                    |
-|-----------------------------------|-------------|--------------------------------|
 | Flags                             | 0           | 0                              |
 | Size of this header               | 64          | 64                             |
 | Size of program headers           | 56          | 56                             |
