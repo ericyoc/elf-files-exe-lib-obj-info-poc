@@ -12,6 +12,8 @@ In-depth: ELF - The Extensible & Linkable Format YouTube https://www.youtube.com
 
 ELF 101 https://github.com/corkami/pics/blob/28cb0226093ed57b348723bc473cea0162dad366/binary/elf101/elf101-64.svg
 
+Executable and Linkable Format https://en.wikipedia.org/wiki/Executable_and_Linkable_Format
+
 ### Importance for a Malware Analyst
 
 Understanding the structure and characteristics of ELF binaries is crucial for malware analysts for several reasons:
